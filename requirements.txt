@@ -1,0 +1,15 @@
+pandas
+numpy
+geopandas
+rasterio
+scipy
+scikit-learn
+joblib
+plotly
+openpyxl
+shapely
+matplotlib
+tqdm
+folium
+deap
+numba
