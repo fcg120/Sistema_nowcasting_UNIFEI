@@ -110,7 +110,7 @@ This code was developed as a product of a Master's thesis (Professional Master's
 
 ## 🧪 Acknowledgments
 
-This work was carried out with the support of the Coordination for the Improvement of Higher Education Personnel – Brazil (CAPES), through support for the Graduate Program in Water Resources, and with the support of CNPq, through the Research Productivity projects CNPq 307637/2012-3 and (5) CNPq/MCTI/FNDCT No. 59/2022 – Benefits of implementing compensatory techniques to mitigate the problems caused by climate change, through the management of qualitative and quantitative aspects of urban drainage in the Municipality of Curitiba – Paraná – Brazil.
+This work was carried out with the support of the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES), through support for the Graduate Program in Water Resources, and with the support of CNPq, through the Research Productivity projects CNPq 307637/2012-3 and (5) CNPq/MCTI/FNDCT No. 59/2022 – Benefits of implementing compensatory techniques to mitigate the problems caused by climate change, through the management of qualitative and quantitative aspects of urban drainage in the Municipality of Curitiba – Paraná – Brazil.
 
 ## 📄 License
 
