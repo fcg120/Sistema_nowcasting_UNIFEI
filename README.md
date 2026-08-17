@@ -138,5 +138,9 @@ O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento
 
 ## 📄 Licença
 
-Código em teste, uso acadêmico. Deve ser solicitado liberação para utilização da UNIFEI
+Código em teste, uso acadêmico. Em caso de uso, utilizar a seguinte referência:
+
+GONÇALVES, Franz Costa; DE MACEDO, Marina Batalini; FAVA, Maria Clara. Aplicação híbrida de método físico e Machine Learning para o mapeamento de inundações
+e desastres hidrológicos. 2026. 114f. Dissertação (Mestrado Profissional em Engenharia Hídrica) - Universidade Federal de Itajubá, Itajubá, 2026.
+
 Todos os direitos reservados - MPEH/UNIFEI.
