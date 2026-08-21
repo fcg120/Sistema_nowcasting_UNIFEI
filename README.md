@@ -1,7 +1,7 @@
 # 🌧️ EEVEE & JOLTEON — Sistema de previsão e monitoramento de heias urbanas
 
 > Produto de uma dissertação de mestrado — Mestrado Profissional em Engenharia Hídrica da UNIFEI
-> Sistema de aprendizado histórico + nowcasting tático para alerta de   cheias em bacia urbana.
+> Sistema de aprendizado histórico + nowcasting para alerta de cheias em bacia urbana.
 
 Este repositório reúne o código-fonte de um **sistema de previsão probabilistica e alerta em webGIS de cheias urbanas** dividido em dois módulos complementares: um que
 **aprende com o histórico** da bacia (EEVEE) e outro que **monitora em
