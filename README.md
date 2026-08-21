@@ -1,4 +1,4 @@
-# 🌧️ EEVEE & JOLTEON — Sistema de previsão e monitoramento de heias urbanas
+# 🌧️ EEVEE & JOLTEON — Sistema de previsão e monitoramento de cheias urbanas
 
 > Produto de uma dissertação de mestrado — Mestrado Profissional em Engenharia Hídrica da UNIFEI
 > Sistema de aprendizado histórico + nowcasting para alerta de cheias em bacia urbana.
