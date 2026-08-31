@@ -70,7 +70,7 @@ ajustados para o rio estudado, usados pelo JOLTEON.
 ### 2. `J0LT30N_REV13.py` — JOLTEON
 **J**oint **O**bservational **T**ool for **E**xtreme **O**verland **N**owcasting **S**ystem
 
-Pipeline de **nowcasting**, que consome o que o EEVEE aprendeu:
+Pipeline de **nowcasting**, que utiliza o que o EEVEE aprendeu:
 
 1. Carrega o modelo treinado e a calibração hidráulica do EEVEE.
 2. Gera o hidrograma da chuva observada (método SCS-CN) e compara com uma
