@@ -24,7 +24,7 @@ flowchart TD
         F[Chuva observada agora] --> G[Hidrograma SCS-CN<br/>+ comparação com chuva sintética TR]
         G --> H[Propagação da onda de cheia<br/>por seção do rio]
         H --> I[Classificação espacial de risco<br/>MDE + HAND + IA]
-        I --> J[Mapa WebGIS interativo<br/>+ painel tático de decisão]
+        I --> J[Mapa WebGIS interativo<br/>+ painel de decisão]
     end
 
     E -.modelo treinado .-> H
