@@ -27,8 +27,8 @@ flowchart TD
         I --> J[Mapa WebGIS interativo<br/>+ painel tático de decisão]
     end
 
-    E -.modelo treinado.-> H
-    E -.modelo treinado.-> I
+    E -.modelo treinado .-> H
+    E -.modelo treinado .-> I
 
     style EEVEE fill:#e8f0fe,stroke:#4285f4
     style JOLTEON fill:#fef7e0,stroke:#f9ab00
